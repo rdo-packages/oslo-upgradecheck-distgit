@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9abe1de1_da6eafc8",
+        "filename": "python-oslo-upgradecheck.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 111
+      },
+      "writtenOn": "2018-10-23T15:05:40Z",
+      "side": 1,
+      "message": "%py_req_cleanup",
+      "range": {
+        "startLine": 72,
+        "startChar": 0,
+        "endLine": 72,
+        "endChar": 31
+      },
+      "revId": "21a1f96be2df1f8518b3fa03a68596afb94ef994",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abe1de1_ba71bbaa",
+        "filename": "python-oslo-upgradecheck.spec",
+        "patchSetId": 6
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 111
+      },
+      "writtenOn": "2018-10-23T15:05:40Z",
+      "side": 1,
+      "message": "Can we put all doc related stuff under with_doc condition?",
+      "range": {
+        "startLine": 94,
+        "startChar": 1,
+        "endLine": 94,
+        "endChar": 33
+      },
+      "revId": "21a1f96be2df1f8518b3fa03a68596afb94ef994",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
