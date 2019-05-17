@@ -92,7 +92,7 @@ rm -rf doc/build/html/.{doctrees,buildinfo}
 
 %check
 export PYTHONPATH=.
-stestr-%{pyver} run
+PYTHON=%{pyver_bin} stestr-%{pyver} run
 
 %files -n python%{pyver}-%{pypi_name}
 %license LICENSE
