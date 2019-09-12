@@ -65,7 +65,6 @@ Requires:    python-enum34
 Summary:    Documentation for OpenStack oslo.upgradecheck library
 
 BuildRequires: python%{pyver}-sphinx
-BuildRequires: python%{pyver}-oslo-sphinx
 BuildRequires: python%{pyver}-openstackdocstheme
 
 %description -n python-%{pypi_name}-doc
