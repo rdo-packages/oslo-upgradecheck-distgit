@@ -44,6 +44,10 @@ BuildRequires:    python%{pyver}-oslo-config
 BuildRequires:    python%{pyver}-oslotest
 BuildRequires:    python%{pyver}-prettytable
 BuildRequires:    python%{pyver}-stestr
+# Handle python2 exception
+%if %{pyver} == 2
+BuildRequires:    python-enum34
+%endif
 
 Requires:         python%{pyver}-babel >= 2.3.4
 Requires:         python%{pyver}-oslo-config >= 5.2.0
