@@ -34,7 +34,6 @@ BuildRequires:    python3-oslotest
 BuildRequires:    python3-prettytable
 BuildRequires:    python3-stestr
 
-Requires:         python3-babel >= 2.3.4
 Requires:         python3-oslo-config >= 5.2.0
 Requires:         python3-oslo-i18n >= 3.15.3
 Requires:         python3-prettytable >= 0.7.1
