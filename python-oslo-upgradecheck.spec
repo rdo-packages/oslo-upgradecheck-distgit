@@ -43,12 +43,14 @@ BuildRequires:    python3-devel
 BuildRequires:    python3-pbr >= 2.0.0
 BuildRequires:    python3-oslo-config
 BuildRequires:    python3-oslo-serialization
+BuildRequires:    python3-oslo-policy
 BuildRequires:    python3-oslo-utils
 BuildRequires:    python3-oslotest
 BuildRequires:    python3-prettytable
 BuildRequires:    python3-stestr
 
 Requires:         python3-oslo-config >= 5.2.0
+Requires:         python3-oslo-policy >= 2.0.0
 Requires:         python3-oslo-utils >= 4.5.0
 Requires:         python3-oslo-i18n >= 3.15.3
 Requires:         python3-prettytable >= 0.7.1
