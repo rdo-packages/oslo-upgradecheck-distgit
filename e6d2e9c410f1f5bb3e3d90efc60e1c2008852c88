@@ -16,6 +16,23 @@
       "message": "missing oslo-policy",
       "revId": "e6d2e9c410f1f5bb3e3d90efc60e1c2008852c88",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6c816386_e2d13ab0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2022-09-13T09:08:40Z",
+      "side": 1,
+      "message": "recheck",
+      "revId": "e6d2e9c410f1f5bb3e3d90efc60e1c2008852c88",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
     }
   ]
 }
