@@ -11,8 +11,8 @@
 This project contains the common code necessary for writing upgrade checks in OpenStack projects.
 
 Name:             python-%{pypi_name}
-Version:          XXX
-Release:          XXX
+Version:          2.1.1
+Release:          1%{?dist}
 Summary:          Common code for writing OpenStack upgrade checks
 License:          ASL 2.0
 URL:              https://docs.openstack.org/oslo.upgradecheck/latest/
@@ -111,3 +111,6 @@ PYTHON=%{__python3} stestr-3 run
 %endif
 
 %changelog
+* Tue Mar 07 2023 RDO <dev@lists.rdoproject.org> 2.1.1-1
+- Update to 2.1.1
+
