@@ -1,9 +1,9 @@
 # UUID Group Name
 global:Registered-Users	Registered Users
+6ddfecad023c6f4fa3ac8c4d2583c502ea675a73	Service Users
+401cf37bee35d1c809d4d957e55f2a304f8eed69	rdo-provenpackagers
+global:Anonymous-Users	Anonymous Users
 1610c39674d7b28fc2056ac021e4448c7f4cbd9e	openstack/oslo-upgradecheck-core
 4572c517702492251ad622a289176552a8acbbb2	rdo-superusers
 05a678d3d4a168e149d5e8a0063bbd1b1c5526da	Administrators
 1682ec3a2f74c68de0586d0b4c4fd9db64133770	openstack/oslo-upgradecheck-ptl
-6ddfecad023c6f4fa3ac8c4d2583c502ea675a73	Service Users
-401cf37bee35d1c809d4d957e55f2a304f8eed69	rdo-provenpackagers
-global:Anonymous-Users	Anonymous Users
